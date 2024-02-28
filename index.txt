@@ -2,29 +2,28 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Baptiste Coste
+Baptiste Coste
+Pentester
 
 Show Contacts
 
 Email
-richard@example.com
+bc.pentest@proton.me
 
 Phone
-+1 (213) 352-2795
++33 6 02 39 12 80
 
 Birthday
-June 23, 1982
+April 30, 1997
 
 Location
-Sacramento, California, USA
+Poitiers, Vienne, France
 
 # navbar
 
 About
 Resume
-Portfolio
 Blog
 Contact
 
